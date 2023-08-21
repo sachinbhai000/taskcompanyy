@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+ 
+}
+
+.card {
+  border: 2px solid black;
+  padding: auto;
+  margin: 10px;
+  position: relative;
+}
+
+.close {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  margin-top: 10px;
+  color: black;
+  background-color:beige;
+
+}
